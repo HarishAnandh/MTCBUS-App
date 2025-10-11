@@ -11,7 +11,7 @@ const config = {
   // Ensure the database name matches what you created exactly (case sensitive).
   database: 'MTC Bus Route Management System', 
   // IMPORTANT: Replace this with your PostgreSQL master password.
-  password: 'Shanmugavel@123', 
+  password: 'password..', 
   port: 5432, // Default PostgreSQL port
 };
 
