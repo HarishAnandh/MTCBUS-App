@@ -1,5 +1,10 @@
  #MTCBUS-App
 
+
+
+
+
+----------------------
 SQL COMMANDS :
 // TABLE CREATION ----------------------------------------
 CREATE TABLE model (
@@ -8,7 +13,6 @@ CREATE TABLE model (
     age INTEGER,                        
     price NUMERIC(10, 2)                
 );
-----------------------
 CREATE TABLE bus (
      bid SERIAL PRIMARY KEY, 
     mid INTEGER NOT NULL,           
